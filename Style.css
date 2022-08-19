@@ -3,27 +3,43 @@ body{
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
-    border: 3px solid red;
+    border: 5px solid rgb(0, 0, 0);
 }
 .Latte{
     width: 200px;
     height: 200px;
+    border: 3px solid darkorchid;
 }
 .cafehelado{
    width: 320px;
    height: 250px; 
+   border: 3px solid darkorchid;
 }
 .cafe{
     width: 250px;
     height: 250px;
+    border: 3px solid darkorchid;
 }
-
 .tinto{
     width: 300px;
     height: 200px;
+    border: 3px solid darkorchid;
+}
+.expresoamericano{
+    border: 3px solid darkorchid;
+}
+.moca{
+    border: 3px solid darkorchid;
+}
+.expreso{
+    border: 3px solid darkorchid;
+}
+.capuchino{
+    border: 3px solid darkorchid;
 }
 div.pagina1{
     text-align:center;
+    
 }
 
 
